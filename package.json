@@ -1,0 +1,16 @@
+{
+  "name": "npm_run_test",
+  "version": "1.0.0",
+  "devDependencies": {
+
+  },
+  "config": {
+    "roar": "RRRAAAA"
+  },
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "engines": {
+    "node": ">=0.12.0"
+  }
+}
