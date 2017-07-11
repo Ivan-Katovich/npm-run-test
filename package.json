@@ -8,7 +8,8 @@
     "roar": "RRRAAAA"
   },
   "scripts": {
-    "start": "node ./index.js"
+    "start": "node ./index.js",
+    "go": "npm run start && node ./index_one.js"
   },
   "engines": {
     "node": ">=0.12.0"
